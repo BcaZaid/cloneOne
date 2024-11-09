@@ -1,0 +1,3 @@
+[submodule "cloneOne"]
+	path = cloneOne
+	url = https://github.com/BcaZaid/cloneOne.git
